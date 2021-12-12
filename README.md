@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sung0422
-- 👀 I’m interested in ...Frontend/UI
-- 🌱 I’m currently learning ...Frontend
-- 💞️ I’m looking to collaborate on .../
+- 👀 I’m interested in ...Front_end/UI,UX
+- 🌱 I’m currently learning ...Front_end
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sung_0422@naver.com
 
 <!---
